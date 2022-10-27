@@ -1,3 +1,8 @@
+### Note: 
+
+Script ini adalah base baru yang masih berantakan dan belum di fix, jadi masih wajar jika ada beberapa yang error, jadi mohon bantuannya untuk di fix yang error, terutama saat run maupun memunculkan qr nya, mohon maaf atas ke kurang nyaman nya, silahkan follow akun saya dan kasih star lalu fork script ini, sekian note dari saya dan terimakasih
+
+
 ### 乂  Description
 
 An automated system (WhatsApp Bot) that can help to do something, search and get data / information only through WhatsApp.
